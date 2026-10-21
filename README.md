@@ -135,7 +135,7 @@ Because the application is fully self-contained with no runtime dependencies:
 ## Author & Contact
 
 **Rama Wijaya**  
-*Data Analyst | People Analytics & Business Intelligence*
+*Data Analyst | Livestock Enthusiast & Business Intelligence*
 
 * **LinkedIn:** [linkedin.com/in/ramawijaya1](https://www.linkedin.com/in/ramawijaya1)
 * **GitHub:** [@wijaya-rama](https://github.com/wijaya-rama)
