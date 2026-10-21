@@ -31,3 +31,7 @@ ENV/
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Design drafts & raw assets (maintained in parent project workspace)
+assets/
+
